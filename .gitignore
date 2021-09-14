@@ -1,0 +1,11 @@
+# Ignore installed npm modules
+node_modules/
+
+# Ignore eleventy output when doing manuell tests
+dist
+
+# Ignore folders from source code editors
+.vscode
+
+# Ignore Cache
+.cache
